@@ -1,0 +1,5 @@
+Isaac Newton	Apple	1623. 03. 09.	Physics
+Shakespeare	Hamlet	1800. 03. 09.	Drama
+OHFFS	ASD	1987. 03. 09.	LE
+Actually	SOMETHING	1201 03 09	History
+Sum	IMEAN	2012 03 09	Cs Go

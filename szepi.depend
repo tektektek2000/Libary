@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1540787957 source:d:\programok\szepi\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"database.h"
+	"libary.h"
+	"norbisconsolemenu.h"
+
+1540787957 source:d:\programok\szepi\database.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"database.h"
+
+1540688406 d:\programok\szepi\database.c
+
+1540787957 d:\programok\szepi\database.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1540780077 source:d:\programok\szepi\norbisconsolemenu.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"norbisconsolemenu.h"
+	"database.h"
+
+1540767437 d:\programok\szepi\norbisconsolemenu.h
+	"database.h"
+
+1540767864 source:d:\programok\szepi\libary.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"database.h"
+	"libary.h"
+
+1540769276 d:\programok\szepi\libary.h
+	"database.h"
+
